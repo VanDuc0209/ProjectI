@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0820D862-D135-4E6E-A1E5-60D6212D0783}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1_Caro/Caro_Chess.cs">
+    <Files>
+      <File FileName="Project1_Caro/frmCaro.cs" Line="1" Column="1" />
+      <File FileName="Project1_Caro/Caro_Chess.cs" Line="385" Column="87" />
+      <File FileName="Project1_Caro/App.config" Line="1" Column="1" />
+      <File FileName="Project1_Caro/Program.cs" Line="1" Column="1" />
+      <File FileName="Project1_Caro/O_Co.cs" Line="35" Column="1" />
+      <File FileName="Project1_Caro/Ban_Co.cs" Line="43" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Project1__Caro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
